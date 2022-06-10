@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/itmem.github.io/static/css/main.7e511081.css",
+    "main.js": "/itmem.github.io/static/js/main.c0f90887.js",
+    "static/media/HotPage.gif": "/itmem.github.io/static/media/HotPage.f7fa826076abb4d8e465.gif",
+    "static/media/presentation.gif": "/itmem.github.io/static/media/presentation.77995ab892ca5863f83a.gif",
+    "static/media/FavouritesPage.gif": "/itmem.github.io/static/media/FavouritesPage.47c5bea79d60e77a2ffb.gif",
+    "static/media/RegularPage.gif": "/itmem.github.io/static/media/RegularPage.898b2bc157eda831d87d.gif",
+    "static/media/HomePage.gif": "/itmem.github.io/static/media/HomePage.b47375f9039bfc22cd56.gif",
+    "static/media/only_needed.png": "/itmem.github.io/static/media/only_needed.7f64a9901e0fed8c9085.png",
+    "static/media/AddMemsPage.gif": "/itmem.github.io/static/media/AddMemsPage.50943cfaf930387e706a.gif",
+    "static/media/for_rohan.png": "/itmem.github.io/static/media/for_rohan.84aa2ebff9f459ccba97.png",
+    "static/media/NotFoundPage.gif": "/itmem.github.io/static/media/NotFoundPage.555f3812a357c97e5edd.gif",
+    "static/media/for_rohan2.png": "/itmem.github.io/static/media/for_rohan2.30dbc1c18ab6fef36db5.png",
+    "static/media/resolve_issue.png": "/itmem.github.io/static/media/resolve_issue.57a595abcc051400e739.png",
+    "static/media/you_shall_not_pass.png": "/itmem.github.io/static/media/you_shall_not_pass.4ac500ec4bfc10d063ab.png",
+    "static/media/senior_explaination.png": "/itmem.github.io/static/media/senior_explaination.cb7f85933c6d17c70d80.png",
+    "static/media/robot.png": "/itmem.github.io/static/media/robot.8a9c7c52171e941b39c9.png",
+    "static/media/itcrowd.png": "/itmem.github.io/static/media/itcrowd.776d6012569e4d539bb6.png",
+    "static/media/projectConspect.PNG": "/itmem.github.io/static/media/projectConspect.64f8baf7fcfa6dde403d.PNG",
+    "static/media/developers_day.png": "/itmem.github.io/static/media/developers_day.7f5d802c463322d6743e.png",
+    "static/media/infinity_loop.png": "/itmem.github.io/static/media/infinity_loop.231f798f85b4606009bb.png",
+    "static/media/picacho.png": "/itmem.github.io/static/media/picacho.9a26e5453cb27251d728.png",
+    "static/media/foldersStructure.PNG": "/itmem.github.io/static/media/foldersStructure.2609f9b0357b12c3106d.PNG",
+    "static/media/jsonTypes.PNG": "/itmem.github.io/static/media/jsonTypes.6d2b6dd82053d3411da0.PNG",
+    "static/media/stylesFolderStructure.PNG": "/itmem.github.io/static/media/stylesFolderStructure.3836aa6a2cd3b0faef7a.PNG",
+    "static/media/HomePageButton.PNG": "/itmem.github.io/static/media/HomePageButton.d74ffbb83ce9395a2c74.PNG",
+    "index.html": "/itmem.github.io/index.html",
+    "main.7e511081.css.map": "/itmem.github.io/static/css/main.7e511081.css.map",
+    "main.c0f90887.js.map": "/itmem.github.io/static/js/main.c0f90887.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e511081.css",
+    "static/js/main.c0f90887.js"
+  ]
+}
